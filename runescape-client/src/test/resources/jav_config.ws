@@ -1,9 +1,9 @@
 title=Old School RuneScape
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://oldschool1.runescape.com/
-cachedir=oldschool
+codebase=http://127.0.0.1:8080/
+cachedir=xlitekt
 storebase=0
-initial_jar=gamepack_3728390.jar
+initial_jar=gamepack.jar
 initial_class=client.class
 termsurl=http://www.jagex.com/g=oldscape/terms/terms.ws
 privacyurl=http://www.jagex.com/g=oldscape/privacy/privacy.ws
@@ -11,9 +11,9 @@ viewerversion=124
 win_sub_version=1
 mac_sub_version=2
 other_sub_version=2
-browsercontrol_win_x86_jar=browsercontrol_0_-1928975093.jar
-browsercontrol_win_amd64_jar=browsercontrol_1_1674545273.jar
-download=2078308
+browsercontrol_win_x86_jar=browsercontrol_0.jar
+browsercontrol_win_amd64_jar=browsercontrol_1.jar
+download=1365098
 window_preferredwidth=800
 window_preferredheight=600
 advert_height=96
